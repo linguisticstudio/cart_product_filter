@@ -1,0 +1,8 @@
+name = Cart Product Bulk Price Variation
+description = Bulk products price variations
+package = EBay Commerce
+version = "7.x-1.2.1"
+core = 7.x
+dependencies[] = hierarchical_select
+stylesheets[all][] = css/styler.css
+scripts[] = js/script.js
